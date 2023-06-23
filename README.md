@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @r-dug
 
-- 👀 I’m interested in technology! Currently, offline, I am working on a project. I'll be back to push code soon.
+- 👀 I’m interested in technology! Currently, offline, I am working on a project. I'll be back to push code soon.... OK. I'm back and pushing code. look at that.
 
 - 🌱 I’m currently learning as much as I possibly can. 
 
