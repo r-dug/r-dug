@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @r-dug
 
-- 👀 I’m interested in technology! Currently, offline, I am working on a project. I'll be back to push code soon.... OK. I'm back and pushing code. look at that.
-
-- 🌱 I’m currently learning as much as I possibly can. 
+- 👀 oH. I'm back and pushing code. look at that.
 
 - 💞️ I’m looking to collaborate on:
   -AI
@@ -11,4 +9,5 @@
   -Automation
 
 - 📫 How to reach me:
-  -r.douglas.42092@gmail.com
+  -RCDOUG03@LOUISVILLE.EDU
+  -R.DOUGLAS.42092@GMAIL.COM
