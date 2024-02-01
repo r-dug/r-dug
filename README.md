@@ -2,6 +2,7 @@
 
 Welcome to my GitHub profile! I'm passionate about web development, team collaboration, and artificial intelligence. Here, you'll find a mix of my open-source projects, contributions, and organizations.
 
+
 ## 🚀 About
 
 - 🎓 Computer Science graduate student.
