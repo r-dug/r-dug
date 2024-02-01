@@ -19,14 +19,17 @@ Welcome to my GitHub profile! I'm passionate about web development, team collabo
 
 ## 🛠️ Projects
 
-- ![logo](https://github.com/r-dug/generator_frontend/blob/Main/public/logo192.png) [Resume-Builder](https://www.resume-builder.info)
+![logo](https://github.com/r-dug/generator_frontend/blob/Main/public/logo192.png) 
+[Resume-Builder](https://www.resume-builder.info)
 - Check out the web app I built using the MERN stack, and OpenAI's APi.
 - It is instructed to give helpful feedback on whether or not a candidate is a good fit for a role.
 - I taught myself how to make this and built the whole darn thing :)
 - Ideas for Updates:
   - Update the prompt 'engineering' aspect. Implement "chunking" of data.
   - I need to add better file handling for more file types: PDF, Word, etc.
-- ![logo](https://github.com/r-dug/generator_frontend/blob/Main/public/logo192.png) [UofL Neonatal](https://github.com/Neonatal-AI)
+    
+![logo](https://github.com/Neonatal-AI/.github/blob/main/uofl_med_emblem.jpg)
+[UofL Neonatal](https://github.com/Neonatal-AI)
 - I am leading a group project to implement some LLM tooling for our school's NICU.
 - Major Goals:
   - Using personalized inputs about patients (not including PEI or sensitive data), create personalized outputs for health care professionals and patients alike
