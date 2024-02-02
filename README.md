@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about web development, team collabo
 ## 🚀 About
 
 - 🎓 Computer Science graduate student.
-- Python enthusiast
+- 🐍 Python enthusiast
 - 🌐 Full-stack web developer.
 - 🤖 Enthusiastic about AI, machine learning, and their real-world applications.
 
