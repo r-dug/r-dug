@@ -33,7 +33,9 @@ Welcome to my GitHub profile! I'm passionate about web development, team collabo
 <a href="https://www.tensorflow.org/">
   <img src="https://miro.medium.com/v2/resize:fit:256/1*cKG1LJvVTaWqSkYSyVqtsQ.png" alt="Tensorflow" width="75" height="75">
 </a>
-
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+  <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/c@0.0.3/c_256x256.png" alt="C programming" width="75" height="75">
+</a>
 ## 🛠️ Projects
     
 ![logo](https://github.com/Neonatal-AI/.github/blob/main/uofl_med_emblem.jpg)
