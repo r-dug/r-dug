@@ -1,20 +1,19 @@
 # Hello, I'm Richard! 👋
 
-Welcome to my GitHub profile! I'm passionate about web development, team collaboration, and artificial intelligence. Here, you'll find a mix of my open-source projects, contributions, and organizations.
-
+Welcome to my GitHub profile! I'm passionate about web development, team collaboration, and artificial intelligence. This GitHub profile presents my varied persuits in code and software development.
 
 ## 🚀 About
 
-- 🎓 Computer Science graduate student.
 - 🐍 Python enthusiast
 - 🌐 Full-stack web developer.
 - 🤖 Enthusiastic about AI, machine learning, and their real-world applications.
 
 ## 💻 Technologies & Tools
 
-<a href="https://www.cisco.com/">
-  <img src="https://www.enterprisenetworkingplanet.com/wp-content/uploads/2019/12/Cisco_Logo.png" alt="Cisco" width="100" height="75">
-</a>
+These are some of the tech stacks I've enjoyed working with.
+
+### Web Development
+
 <a href="https://expressjs.com/">
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*XP-mZOrIqX7OsFInN2ngRQ.png" alt="EXPRESS" width="150" height="75">
 </a>
@@ -27,19 +26,40 @@ Welcome to my GitHub profile! I'm passionate about web development, team collabo
 <a href="https://nodejs.org/about">
   <img src="https://chris-noring.gallerycdn.vsassets.io/extensions/chris-noring/node-snippets/1.3.3/1636325666317/Microsoft.VisualStudio.Services.Icons.Default" alt="NODE" width="75" height="75">
 </a>
+
+### Data
+
 <a href="https://www.python.org/">
   <img src="https://www.moosoft.com/wp-content/uploads/2021/07/Python.png" alt="HTML" width="75" height="75">
 </a>
 <a href="https://www.tensorflow.org/">
   <img src="https://miro.medium.com/v2/resize:fit:256/1*cKG1LJvVTaWqSkYSyVqtsQ.png" alt="Tensorflow" width="75" height="75">
 </a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-  <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/c@0.0.3/c_256x256.png" alt="C programming" width="75" height="75">
+<a href="https://numpy.org/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="Numpy" width="75" height="75">
+</a>
+
+### Mobile Development
+
+<a href="https://flutter.dev/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="flutter" width="75" height="75">
 </a>
 
 
 ## 🛠️ Projects
-    
+
+
+![logo](https://github.com/Neonatal-AI/.github/blob/main/uofl_med_emblem.jpg)
+- [Mushroom Classifier](https://github.com/r-dug/Mushroom_Classifier)
+  - Recently, I've been working on an image classifier for mushrooms! 
+  - Major Goals:
+    - Train existing lightweight CNN archetectures to classify photos of mushroom species to a top 1 accuracy above Imagenet benchmarks. 
+    - Test 
+    - Implement a CI/CD pipeline
+      - Subdomain for development
+      - Dev, testing, and staging pipelines through  PaaS
+      - Testing: Build test, test output. test for errors such as CORS
+
 ![logo](https://github.com/Neonatal-AI/.github/blob/main/uofl_med_emblem.jpg)
 - [UofL Health Neonatal AI](https://github.com/Neonatal-AI)
   - I am leading a group project to implement some LLM tooling for our school's NICU.
