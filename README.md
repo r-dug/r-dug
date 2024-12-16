@@ -36,49 +36,40 @@ These are some of the tech stacks I've enjoyed working with.
   <img src="https://miro.medium.com/v2/resize:fit:256/1*cKG1LJvVTaWqSkYSyVqtsQ.png" alt="Tensorflow" width="75" height="75">
 </a>
 <a href="https://numpy.org/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="Numpy" width="75" height="75">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="Numpy" width="125" height="75">
 </a>
 
 ### Mobile Development
 
 <a href="https://flutter.dev/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="flutter" width="75" height="75">
+  <img src="https://w7.pngwing.com/pngs/537/866/png-transparent-flutter-hd-logo-thumbnail.png" alt="flutter" width="75" height="75">
 </a>
 
 
 ## 🛠️ Projects
 
-
-![logo](https://github.com/Neonatal-AI/.github/blob/main/uofl_med_emblem.jpg)
-- [Mushroom Classifier](https://github.com/r-dug/Mushroom_Classifier)
+### Mushroom Classifier
+- [Model Creation repo](https://github.com/r-dug/Mushroom_Classifier)
+- [Mobile Application repo](https://github.com/r-dug/flutter_image_classifier)
   - Recently, I've been working on an image classifier for mushrooms! 
-  - Major Goals:
+  - Goals:
     - Train existing lightweight CNN archetectures to classify photos of mushroom species to a top 1 accuracy above Imagenet benchmarks. 
-    - Test 
-    - Implement a CI/CD pipeline
-      - Subdomain for development
-      - Dev, testing, and staging pipelines through  PaaS
-      - Testing: Build test, test output. test for errors such as CORS
+    - Create a platform agnostic mobile application to run inferences on images taken on the mobile device.
+      - The goal here is to run inferences on the device, without the need for a network connection.
 
 ![logo](https://github.com/Neonatal-AI/.github/blob/main/uofl_med_emblem.jpg)
-- [UofL Health Neonatal AI](https://github.com/Neonatal-AI)
+### Neonatal AI
+- [Repo](https://github.com/Neonatal-AI)
   - I am leading a group project to implement some LLM tooling for our school's NICU.
-  - Major Goals:
+  - Goals:
     - Using personalized inputs about patients (not including PEI or sensitive data), create personalized outputs for health care professionals and patients alike
-    - Improve upon web application design implemented in last major project
-    - Implement a CI/CD pipeline
-      - Subdomain for development
-      - Dev, testing, and staging pipelines through  PaaS
-      - Testing: Build test, test output. test for errors such as CORS
 
 ![logo](https://github.com/r-dug/generator_frontend/blob/Main/public/logo192.png) 
-- [Resume-Builder](https://www.resume-builder.info)
-  - Check out the web app I built using the MERN stack, and OpenAI's APi.
-  - It is instructed to give helpful feedback on whether or not a candidate is a good fit for a role.
-  - I taught myself how to make this and built the whole darn thing :)
-  - Ideas for Updates:
-    - Update the prompt 'engineering' aspect. Implement "chunking" of data.
-    - I need to add better file handling for more file types: PDF, Word, etc.
+### Resume-Builder
+- [Repo](https://www.resume-builder.info)
+  - Goals:
+    - Create a mobile application using LLMs to provide helpful feedback for job seekers about their resume and suitability for job descriptions
+
 
 ## 📈 GitHub Stats
 
@@ -101,7 +92,7 @@ These are some of the tech stacks I've enjoyed working with.
 
 - J.B. School of Gngineering
     - M.S. C.S. 
-    - Expected graduation: Winter 2026
+    - Expected graduation: Fall 2025
 
     
 ## 📫 Let's Connect
