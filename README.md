@@ -17,12 +17,15 @@ These are some of the tech stacks I've enjoyed working with.
 <a href="https://expressjs.com/">
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*XP-mZOrIqX7OsFInN2ngRQ.png" alt="EXPRESS" width="150" height="75">
 </a>
+
 <a href="https://www.mongodb.com/">
   <img src="https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png" alt="MONGO" width="75" height="75">
 </a>
+
 <a href="https://react.dev/">
   <img src="https://avatars.githubusercontent.com/u/6412038?s=200&v=4" alt="REACT" width="75" height="75">
 </a>
+
 <a href="https://nodejs.org/about">
   <img src="https://chris-noring.gallerycdn.vsassets.io/extensions/chris-noring/node-snippets/1.3.3/1636325666317/Microsoft.VisualStudio.Services.Icons.Default" alt="NODE" width="75" height="75">
 </a>
@@ -32,9 +35,11 @@ These are some of the tech stacks I've enjoyed working with.
 <a href="https://www.python.org/">
   <img src="https://www.moosoft.com/wp-content/uploads/2021/07/Python.png" alt="HTML" width="75" height="75">
 </a>
+
 <a href="https://www.tensorflow.org/">
   <img src="https://miro.medium.com/v2/resize:fit:256/1*cKG1LJvVTaWqSkYSyVqtsQ.png" alt="Tensorflow" width="75" height="75">
 </a>
+
 <a href="https://numpy.org/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="Numpy" width="125" height="75">
 </a>
@@ -51,15 +56,21 @@ These are some of the tech stacks I've enjoyed working with.
 ### Mushroom Classifier
 - [Model Creation repo](https://github.com/r-dug/Mushroom_Classifier)
 - [Mobile Application repo](https://github.com/r-dug/flutter_image_classifier)
-  - Recently, I've been working on an image classifier for mushrooms! 
   - Goals:
     - Train existing lightweight CNN archetectures to classify photos of mushroom species to a top 1 accuracy above Imagenet benchmarks. 
     - Create a platform agnostic mobile application to run inferences on images taken on the mobile device.
       - The goal here is to run inferences on the device, without the need for a network connection.
 
-![logo](https://github.com/Neonatal-AI/.github/blob/main/uofl_med_emblem.jpg)
+### Garden Wall
+- [Repo](https://github.com/r-dug/garden_wall)
+- [Mobile Application repo](https://github.com/r-dug/flutter_image_classifier)
+  - Goals:
+    - Run object detection to monitor for garden pests (chipmunks, squirrels, deer)
+    - If pests are detected in the garder, open a solonoid valve to sprinklers in the garden in order to deter them
 
 ### Neonatal AI
+
+![logo](https://github.com/Neonatal-AI/.github/blob/main/uofl_med_emblem.jpg)
 - [Repo](https://github.com/Neonatal-AI)
   - I am leading a group project to implement some LLM tooling for our school's NICU.
   - Goals:
