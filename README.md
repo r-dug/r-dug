@@ -42,7 +42,7 @@ These are some of the tech stacks I've enjoyed working with.
 ### Mobile Development
 
 <a href="https://flutter.dev/">
-  <img src="https://w7.pngwing.com/pngs/537/866/png-transparent-flutter-hd-logo-thumbnail.png" alt="flutter" width="75" height="75">
+  <img src="https://juststickers.in/wp-content/uploads/2019/01/flutter.png" alt="flutter" width="75" height="75">
 </a>
 
 
