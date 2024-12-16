@@ -2,12 +2,6 @@
 
 Welcome to my GitHub profile! I'm passionate about web development, team collaboration, and artificial intelligence. This GitHub profile presents my varied persuits in code and software development.
 
-## 🚀 About
-
-- 🐍 Python enthusiast
-- 🌐 Full-stack web developer.
-- 🤖 Enthusiastic about AI, machine learning, and their real-world applications.
-
 ## 💻 Technologies & Tools
 
 These are some of the tech stacks I've enjoyed working with.
