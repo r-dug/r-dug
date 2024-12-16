@@ -63,14 +63,7 @@ These are some of the tech stacks I've enjoyed working with.
 - [Repo](https://github.com/Neonatal-AI)
   - I am leading a group project to implement some LLM tooling for our school's NICU.
   - Goals:
-    - Using personalized inputs about patients (not including PEI or sensitive data), create personalized outputs for health care professionals and patients alike
-
-![logo](https://github.com/r-dug/generator_frontend/blob/Main/public/logo192.png) 
-
-### Resume-Builder
-- [Repo](https://www.resume-builder.info)
-  - Goals:
-    - Create a mobile application using LLMs to provide helpful feedback for job seekers about their resume and suitability for job descriptions
+    - Streamline and individualize the documentation process for neonatal healthcare workers 
 
 
 ## 📈 GitHub Stats
