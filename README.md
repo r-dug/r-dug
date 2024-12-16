@@ -58,6 +58,7 @@ These are some of the tech stacks I've enjoyed working with.
       - The goal here is to run inferences on the device, without the need for a network connection.
 
 ![logo](https://github.com/Neonatal-AI/.github/blob/main/uofl_med_emblem.jpg)
+
 ### Neonatal AI
 - [Repo](https://github.com/Neonatal-AI)
   - I am leading a group project to implement some LLM tooling for our school's NICU.
@@ -65,6 +66,7 @@ These are some of the tech stacks I've enjoyed working with.
     - Using personalized inputs about patients (not including PEI or sensitive data), create personalized outputs for health care professionals and patients alike
 
 ![logo](https://github.com/r-dug/generator_frontend/blob/Main/public/logo192.png) 
+
 ### Resume-Builder
 - [Repo](https://www.resume-builder.info)
   - Goals:
