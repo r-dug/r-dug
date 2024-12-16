@@ -62,8 +62,8 @@ These are some of the tech stacks I've enjoyed working with.
       - The goal here is to run inferences on the device, without the need for a network connection.
 
 ### Garden Wall
+![chipmunk](https://github.com/r-dug/garden_wall/tree/master/chipmunks)
 - [Repo](https://github.com/r-dug/garden_wall)
-- [Mobile Application repo](https://github.com/r-dug/flutter_image_classifier)
   - Goals:
     - Run object detection to monitor for garden pests (chipmunks, squirrels, deer)
     - If pests are detected in the garder, open a solonoid valve to sprinklers in the garden in order to deter them
