@@ -41,7 +41,7 @@ These are some of the tech stacks I've enjoyed working with.
 </a>
 
 <a href="https://numpy.org/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="Numpy" width="125" height="75">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="Numpy" width="115" height="75">
 </a>
 
 ### Mobile Development
