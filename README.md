@@ -53,7 +53,7 @@ These are some of the tech stacks I've enjoyed working with.
   - Goals:
     - Train existing lightweight CNN archetectures to classify photos of mushroom species to a top 1 accuracy above Imagenet benchmarks. 
     - Create a platform agnostic mobile application to run inferences on images taken on the mobile device.
-      - The goal here is to run inferences on the device, without the need for a network connection.
+      - Specifically, the goal here is to run inferences on the mobile device's CPU, without the need for a network connection.
 
 ### Garden Wall
 <img src="https://github.com/r-dug/garden_wall/blob/master/chipmunks/images.jpeg" alt="chipmunk" width="125" height="100"/>
@@ -67,9 +67,9 @@ These are some of the tech stacks I've enjoyed working with.
 
 ![logo](https://github.com/Neonatal-AI/.github/blob/main/uofl_med_emblem.jpg)
 - [Repo](https://github.com/Neonatal-AI)
-  - I am leading a group project to implement some LLM tooling for our school's NICU.
   - Goals:
-    - Streamline and individualize the documentation process for neonatal healthcare workers 
+    - Streamline the documentation process for neonatal healthcare workers 
+    - Design and build a web application using form submission to prompt an LLM to generate clerical documents 
 
 
 ## 📈 GitHub Stats
