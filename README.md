@@ -82,7 +82,7 @@ These are some of the tech stacks I've enjoyed working with.
 
 ### Notes GPT
 
-- [Repo](https://github.com/Neonatal-AI)
+- [Repo](https://github.com/r-dug/notes_GPT)
   - Goals:
     -  Create a simple commandline tool to create html formatted study materials based on lecture videos using LLMs.
 
