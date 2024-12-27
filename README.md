@@ -9,39 +9,43 @@ These are some of the tech stacks I've enjoyed working with.
 ### Web Development
 
 <a href="https://expressjs.com/">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*XP-mZOrIqX7OsFInN2ngRQ.png" alt="EXPRESS" width="150" height="75">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*XP-mZOrIqX7OsFInN2ngRQ.png" alt="EXPRESS" height="75">
 </a>
 
 <a href="https://www.mongodb.com/">
-  <img src="https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png" alt="MONGO" width="75" height="75">
+  <img src="https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png" alt="MONGO" height="75">
 </a>
 
 <a href="https://react.dev/">
-  <img src="https://avatars.githubusercontent.com/u/6412038?s=200&v=4" alt="REACT" width="75" height="75">
+  <img src="https://avatars.githubusercontent.com/u/6412038?s=200&v=4" alt="REACT"  height="75">
 </a>
 
 <a href="https://nodejs.org/about">
-  <img src="https://chris-noring.gallerycdn.vsassets.io/extensions/chris-noring/node-snippets/1.3.3/1636325666317/Microsoft.VisualStudio.Services.Icons.Default" alt="NODE" width="75" height="75">
+  <img src="https://chris-noring.gallerycdn.vsassets.io/extensions/chris-noring/node-snippets/1.3.3/1636325666317/Microsoft.VisualStudio.Services.Icons.Default" alt="NODE" height="75">
 </a>
 
 ### Data
 
 <a href="https://www.python.org/">
-  <img src="https://www.moosoft.com/wp-content/uploads/2021/07/Python.png" alt="HTML" width="75" height="75">
+  <img src="https://www.moosoft.com/wp-content/uploads/2021/07/Python.png" alt="HTML" height="75">
 </a>
 
 <a href="https://www.tensorflow.org/">
-  <img src="https://miro.medium.com/v2/resize:fit:256/1*cKG1LJvVTaWqSkYSyVqtsQ.png" alt="Tensorflow" width="75" height="75">
+  <img src="https://miro.medium.com/v2/resize:fit:256/1*cKG1LJvVTaWqSkYSyVqtsQ.png" alt="Tensorflow" height="75">
 </a>
 
 <a href="https://numpy.org/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="Numpy" width="115" height="75">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="Numpy" height="75">
+</a>
+
+<a href="https://www.selenium.dev/documentation/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Selenium_logo.svg/512px-Selenium_logo.svg.png" alt="Selenium" height="75">
 </a>
 
 ### Mobile Development
 
 <a href="https://flutter.dev/">
-  <img src="https://juststickers.in/wp-content/uploads/2019/01/flutter.png" alt="flutter" width="75" height="75">
+  <img src="https://juststickers.in/wp-content/uploads/2019/01/flutter.png" alt="flutter" height="75">
 </a>
 
 
