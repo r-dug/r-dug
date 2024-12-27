@@ -58,7 +58,7 @@ These are some of the tech stacks I've enjoyed working with.
 ### Garden Wall
 <img src="https://github.com/r-dug/garden_wall/blob/master/chipmunks/images.jpeg" alt="chipmunk" width="125" height="100"/>
 
-- [Repository](https://github.com/r-dug/garden_wall)
+- [Repo](https://github.com/r-dug/garden_wall)
   - Goals:
     - Run object detection to monitor for garden pests (chipmunks, squirrels, deer)
     - If pests are detected in the garder, open a solonoid valve to sprinklers in the garden in order to deter them
