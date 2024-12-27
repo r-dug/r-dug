@@ -69,7 +69,13 @@ These are some of the tech stacks I've enjoyed working with.
 - [Repo](https://github.com/Neonatal-AI)
   - Goals:
     - Streamline the documentation process for neonatal healthcare workers 
-    - Design and build a web application using form submission to prompt an LLM to generate clerical documents 
+    - Design and build a web application using form submission to prompt an LLM to generate clerical documents
+
+### Notes GPT
+
+- [Repo](https://github.com/Neonatal-AI)
+  - Goals:
+    -  Create a simple commandline tool to create html formatted study materials based on lecture videos using LLMs.
 
 
 ## 📈 GitHub Stats
