@@ -24,6 +24,11 @@ These are some of the tech stacks I've enjoyed working with.
   <img src="https://chris-noring.gallerycdn.vsassets.io/extensions/chris-noring/node-snippets/1.3.3/1636325666317/Microsoft.VisualStudio.Services.Icons.Default" alt="NODE" height="75">
 </a>
 
+<a href="https://devcenter.heroku.com/categories/reference">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Heroku_logo.svg/2560px-Heroku_logo.svg.png" alt="HEROKU" height="75">
+</a>
+
+
 ### Data
 
 <a href="https://www.python.org/">
